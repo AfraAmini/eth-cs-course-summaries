@@ -1,4 +1,4 @@
-# eth-cs-course-summaries
+# Course Summaries
 Here I put all the course summaries I created during my masters studies at ETH Zürich.
 
 
